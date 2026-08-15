@@ -16,3 +16,8 @@ Hi ![hello](https://user-images.githubusercontent.com/18350557/176309783-0785949
 * ✉️  You can contact me at [bilaljafar360@gmail.com](mailto:bilaljafar360@gmail.com)
 
 
+📊 GitHub Stats
+
+![stats](https://github-readme-stats.shion.dev/api?username=Itsr1ght&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![steak](https://streak-stats.demolab.com/?user=Itsr1ght&theme=dark&hide_border=false)
+![lang-used](https://github-readme-stats.shion.dev/api/top-langs/?username=Itsr1ght&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
