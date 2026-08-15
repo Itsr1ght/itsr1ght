@@ -2,7 +2,7 @@ name: Update Language Statistics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 permissions:
@@ -21,4 +21,5 @@ jobs:
           output_path: "stats"
           dark_mode: "true"
           top_repos_count: "10"
+          use_loc: "true"
 
