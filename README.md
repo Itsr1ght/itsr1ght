@@ -19,5 +19,6 @@ Hi ![hello](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Itsr1ght&theme=dark)
-![Language Stats](stats/leaderboard_by_bytes.png)
+![GitHub Stats](profile/stats.svg)
+![Streak](profile/streak.svg)
+![Top Langs](profile/top-langs.svg)
