@@ -22,9 +22,7 @@ Hi ![hello](https://user-images.githubusercontent.com/18350557/176309783-0785949
 <link rel="stylesheet" href="style.css">
 
 <div class="github-stats">
-    <img src="profile/stats.svg" class="stats-card stats-main"></img>
-
-    <img src="profile/streak.svg" class="stats-card stats-streak"></img>
-
-    <img src="profile/top-langs.svg" class="stats-card stats-languages"></img>
+    <img src="profile/stats.svg" class="stats-card stats-main">
+    <img src="profile/streak.svg" class="stats-card stats-streak">
+    <img src="profile/top-langs.svg" class="stats-card stats-languages">
 </div>
