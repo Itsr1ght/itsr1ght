@@ -19,6 +19,7 @@ Hi ![hello](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 # 📊 GitHub Stats
 
+<div align="center">
 <table>
   <tr>
     <td colspan="2">
@@ -34,3 +35,4 @@ Hi ![hello](https://user-images.githubusercontent.com/18350557/176309783-0785949
     </td>
   </tr>
 </table>
+</div>
