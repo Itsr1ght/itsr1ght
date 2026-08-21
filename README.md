@@ -22,15 +22,15 @@ Hi ![hello](https://user-images.githubusercontent.com/18350557/176309783-0785949
 <table>
   <tr>
     <td colspan="2">
-      <img src="profile/stats.svg" width="467">
+      <img src="profile/stats.svg" width="600">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="profile/streak.svg" width="346">
+      <img src="profile/streak.svg" width="445">
     </td>
     <td>
-      <img src="profile/top-langs.svg" width="191">
+      <img src="profile/top-langs.svg" width="245">
     </td>
   </tr>
 </table>
