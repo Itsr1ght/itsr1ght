@@ -19,10 +19,18 @@ Hi ![hello](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 # 📊 GitHub Stats
 
-<link rel="stylesheet" href="style.css">
-
-<div class="github-stats">
-    <img src="profile/stats.svg" class="stats-card stats-main">
-    <img src="profile/streak.svg" class="stats-card stats-streak">
-    <img src="profile/top-langs.svg" class="stats-card stats-languages">
-</div>
+<table>
+  <tr>
+    <td colspan="2">
+      <img src="profile/stats.svg" width="467">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="profile/streak.svg" width="346">
+    </td>
+    <td>
+      <img src="profile/top-langs.svg" width="191">
+    </td>
+  </tr>
+</table>
