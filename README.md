@@ -30,7 +30,7 @@ Hi ![hello](https://user-images.githubusercontent.com/18350557/176309783-0785949
       <img src="profile/streak.svg" width="445">
     </td>
     <td>
-      <img src="profile/top-langs.svg" width="245">
+      <img src="profile/top-langs.svg" width="300">
     </td>
   </tr>
 </table>
